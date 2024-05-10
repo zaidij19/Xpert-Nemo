@@ -1,0 +1,48 @@
+
+
+{
+
+"Covid_Pneumonia": {
+
+	"description": "Covid Pneumonia is a specific type of pneumonia caused by the novel coronavirus, COVID-19 (SARS-CoV-2). This condition represents a critical aspect of the respiratory implications of COVID-19, a viral respiratory illness that gained global attention due to its rapid spread and impact on public health. Covid Pneumonia is characterized by viral-induced inflammation and damage to the lung tissues, leading to severe respiratory distress in some cases.",
+
+	"symptoms": "Common symptoms include fever, dry cough, fatigue, and difficulty breathing.",
+
+	"causses": "It is caused by the SARS-CoV-2 virus, primarily transmitted through respiratory droplets.",
+
+	"treatment": "Treatment may include antiviral medications, supportive care, and respiratory support."
+},
+
+"Normal": {
+
+	"description": "Normal in the context of pneumonia detection indicates a chest X-ray or scan that does not show any signs of pneumonia or other abnormalities. It serves as a reference category to confirm the absence of pneumonia.",
+
+	"symptoms": "No pneumonia-related symptoms are present.",
+
+	"causses": "N/A",
+
+	"treatment": "No treatment is required for normal cases."
+},
+
+"Bacterial_Pneumonia": {
+
+	"description": "Bacterial Pneumonia is a common and potentially serious respiratory infection that affects the lungs. It is primarily caused by various types of bacteria infiltrating the lung tissue, leading to inflammation and a range of distressing symptoms. Bacterial pneumonia is a significant health concern, particularly among vulnerable populations, and it can vary in severity from mild to life-threatening.",
+
+	"symptoms": "Symptoms may include fever, cough, chest pain, and shortness of breath.",
+
+	"causses": "It is caused by fungal infections, which can vary depending on the specific fungi.",
+
+	"treatment": "Treatment typically involves antifungal medications and supportive care."
+},
+
+"Fungal_Pneumonia": {
+
+	"description": "Fungal Pneumonia, also known as mycotic pneumonia, is a form of pneumonia caused by various types of fungi. Unlike bacterial or viral pneumonia, fungal pneumonia is less common and is typically seen in individuals with compromised immune systems, although it can affect healthy individuals as well. Fungal pneumonia can manifest in different forms, each associated with specific fungi and risk factors.",
+
+	"symptoms": "Symptoms may include fever, cough, chest pain, and shortness of breath.",
+
+	"causses": "It is caused by fungal infections, which can vary depending on the specific fungi.",
+
+	"treatment": "Treatment typically involves antifungal medications and supportive care."
+}
+}
